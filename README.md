@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there
+
+Welcome to my GitHub Profile!
+
+I am a developer situated in Norway. I am interested in Vim, Open Source, .NET, Rust and various frontend frameworks.
+
+You can react me on <a rel="me" href="https://mastodon.social/@njoos">Mastodon</a> or [Twitter](https://twitter.com/TheRealAndersNS)
 
 <!--
 **AndersNS/AndersNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
